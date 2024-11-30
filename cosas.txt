@@ -1,0 +1,5 @@
+funciones lambda
+funciones que reciben/retornen funciones
+manejo de str
+archivos
+pygame
